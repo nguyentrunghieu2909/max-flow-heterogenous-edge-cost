@@ -1,4 +1,7 @@
-# PDP Mini Repo
+# Maximum flow with herogenous edge cost
+
+Author: Hieu Nguyen
+California State University, Dominguez Hills
 
 This repo contains a simple pipeline for the project:
 
